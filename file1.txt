@@ -14,4 +14,7 @@ This line is feature 3.
 This line is aslo feature 3.
 This is also a feature3 line.
 
+This line is aslo feature3.
+This is also a feature3 line.
+
 This is feature4 branch.
