@@ -9,3 +9,6 @@ This line also creates feature2.
 This line is aslo feature 2.
 
 This is new.
+
+This line is feature 3.
+This line is aslo feature 3.
